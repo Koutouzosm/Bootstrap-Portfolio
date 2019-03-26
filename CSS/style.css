@@ -3,7 +3,6 @@
 .nbc {
   background: #404040;
   font-size: 20px;
-  color: #f6f6e8
 }
 
 .nbb {
@@ -13,8 +12,17 @@
   font-weight: 800;
 }
 
+.nbtb {
+  background: blanchedalmond;
+}
 #Cinfo {
   font-family: Arial, Helvetica, sans-serif;
   color: darkblue;
   font-size: 50px;
+  margin-top: 50px;
+}
+
+#cont {
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
